@@ -12,7 +12,7 @@
     </v-row>
     <v-row class="text-center">
       <v-col cols="12">
-        <h1>Isso é um teste para o App tarefas Moaoe</h1>
+        <h1>Isso é um teste para o App tarefas</h1>
       </v-col>
     </v-row>
   </v-container>
